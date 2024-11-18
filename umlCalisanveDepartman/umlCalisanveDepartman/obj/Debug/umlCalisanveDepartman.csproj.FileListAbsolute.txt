@@ -1,0 +1,7 @@
+C:\Users\SILA\source\repos\umlCalisanveDepartman\umlCalisanveDepartman\bin\Debug\umlCalisanveDepartman.exe.config
+C:\Users\SILA\source\repos\umlCalisanveDepartman\umlCalisanveDepartman\bin\Debug\umlCalisanveDepartman.exe
+C:\Users\SILA\source\repos\umlCalisanveDepartman\umlCalisanveDepartman\bin\Debug\umlCalisanveDepartman.pdb
+C:\Users\SILA\source\repos\umlCalisanveDepartman\umlCalisanveDepartman\obj\Debug\umlCalisanveDepartman.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\umlCalisanveDepartman\umlCalisanveDepartman\obj\Debug\umlCalisanveDepartman.csproj.CoreCompileInputs.cache
+C:\Users\SILA\source\repos\umlCalisanveDepartman\umlCalisanveDepartman\obj\Debug\umlCalisanveDepartman.exe
+C:\Users\SILA\source\repos\umlCalisanveDepartman\umlCalisanveDepartman\obj\Debug\umlCalisanveDepartman.pdb

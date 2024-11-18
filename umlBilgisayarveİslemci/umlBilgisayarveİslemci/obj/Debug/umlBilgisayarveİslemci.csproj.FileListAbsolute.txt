@@ -1,0 +1,7 @@
+C:\Users\SILA\source\repos\umlBilgisayarveİslemci\umlBilgisayarveİslemci\bin\Debug\umlBilgisayarveİslemci.exe.config
+C:\Users\SILA\source\repos\umlBilgisayarveİslemci\umlBilgisayarveİslemci\bin\Debug\umlBilgisayarveİslemci.exe
+C:\Users\SILA\source\repos\umlBilgisayarveİslemci\umlBilgisayarveİslemci\bin\Debug\umlBilgisayarveİslemci.pdb
+C:\Users\SILA\source\repos\umlBilgisayarveİslemci\umlBilgisayarveİslemci\obj\Debug\umlBilgisayarveİslemci.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\umlBilgisayarveİslemci\umlBilgisayarveİslemci\obj\Debug\umlBilgisayarveİslemci.csproj.CoreCompileInputs.cache
+C:\Users\SILA\source\repos\umlBilgisayarveİslemci\umlBilgisayarveİslemci\obj\Debug\umlBilgisayarveİslemci.exe
+C:\Users\SILA\source\repos\umlBilgisayarveİslemci\umlBilgisayarveİslemci\obj\Debug\umlBilgisayarveİslemci.pdb

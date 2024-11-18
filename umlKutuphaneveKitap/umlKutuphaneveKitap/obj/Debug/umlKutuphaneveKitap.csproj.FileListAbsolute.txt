@@ -1,0 +1,7 @@
+C:\Users\SILA\source\repos\umlKutuphaneveKitap\umlKutuphaneveKitap\bin\Debug\umlKutuphaneveKitap.exe.config
+C:\Users\SILA\source\repos\umlKutuphaneveKitap\umlKutuphaneveKitap\bin\Debug\umlKutuphaneveKitap.exe
+C:\Users\SILA\source\repos\umlKutuphaneveKitap\umlKutuphaneveKitap\bin\Debug\umlKutuphaneveKitap.pdb
+C:\Users\SILA\source\repos\umlKutuphaneveKitap\umlKutuphaneveKitap\obj\Debug\umlKutuphaneveKitap.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\umlKutuphaneveKitap\umlKutuphaneveKitap\obj\Debug\umlKutuphaneveKitap.csproj.CoreCompileInputs.cache
+C:\Users\SILA\source\repos\umlKutuphaneveKitap\umlKutuphaneveKitap\obj\Debug\umlKutuphaneveKitap.exe
+C:\Users\SILA\source\repos\umlKutuphaneveKitap\umlKutuphaneveKitap\obj\Debug\umlKutuphaneveKitap.pdb

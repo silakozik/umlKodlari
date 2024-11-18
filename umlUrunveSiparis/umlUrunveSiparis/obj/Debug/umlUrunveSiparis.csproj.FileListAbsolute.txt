@@ -1,0 +1,7 @@
+C:\Users\SILA\source\repos\umlUrunveSiparis\umlUrunveSiparis\bin\Debug\umlUrunveSiparis.exe.config
+C:\Users\SILA\source\repos\umlUrunveSiparis\umlUrunveSiparis\bin\Debug\umlUrunveSiparis.exe
+C:\Users\SILA\source\repos\umlUrunveSiparis\umlUrunveSiparis\bin\Debug\umlUrunveSiparis.pdb
+C:\Users\SILA\source\repos\umlUrunveSiparis\umlUrunveSiparis\obj\Debug\umlUrunveSiparis.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\umlUrunveSiparis\umlUrunveSiparis\obj\Debug\umlUrunveSiparis.csproj.CoreCompileInputs.cache
+C:\Users\SILA\source\repos\umlUrunveSiparis\umlUrunveSiparis\obj\Debug\umlUrunveSiparis.exe
+C:\Users\SILA\source\repos\umlUrunveSiparis\umlUrunveSiparis\obj\Debug\umlUrunveSiparis.pdb

@@ -1,0 +1,7 @@
+C:\Users\SILA\source\repos\umlSirketveCalisanDependency\umlSirketveCalisanDependency\bin\Debug\umlSirketveCalisanDependency.exe.config
+C:\Users\SILA\source\repos\umlSirketveCalisanDependency\umlSirketveCalisanDependency\bin\Debug\umlSirketveCalisanDependency.exe
+C:\Users\SILA\source\repos\umlSirketveCalisanDependency\umlSirketveCalisanDependency\bin\Debug\umlSirketveCalisanDependency.pdb
+C:\Users\SILA\source\repos\umlSirketveCalisanDependency\umlSirketveCalisanDependency\obj\Debug\umlSirketveCalisanDependency.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\umlSirketveCalisanDependency\umlSirketveCalisanDependency\obj\Debug\umlSirketveCalisanDependency.csproj.CoreCompileInputs.cache
+C:\Users\SILA\source\repos\umlSirketveCalisanDependency\umlSirketveCalisanDependency\obj\Debug\umlSirketveCalisanDependency.exe
+C:\Users\SILA\source\repos\umlSirketveCalisanDependency\umlSirketveCalisanDependency\obj\Debug\umlSirketveCalisanDependency.pdb

@@ -1,0 +1,7 @@
+C:\Users\SILA\source\repos\umlYazarveKitap\umlYazarveKitap\obj\Debug\umlYazarveKitap.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\umlYazarveKitap\umlYazarveKitap\obj\Debug\umlYazarveKitap.csproj.CoreCompileInputs.cache
+C:\Users\SILA\source\repos\umlYazarveKitap\umlYazarveKitap\bin\Debug\umlYazarveKitap.exe.config
+C:\Users\SILA\source\repos\umlYazarveKitap\umlYazarveKitap\bin\Debug\umlYazarveKitap.exe
+C:\Users\SILA\source\repos\umlYazarveKitap\umlYazarveKitap\bin\Debug\umlYazarveKitap.pdb
+C:\Users\SILA\source\repos\umlYazarveKitap\umlYazarveKitap\obj\Debug\umlYazarveKitap.exe
+C:\Users\SILA\source\repos\umlYazarveKitap\umlYazarveKitap\obj\Debug\umlYazarveKitap.pdb

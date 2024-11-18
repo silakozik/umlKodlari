@@ -1,0 +1,7 @@
+C:\Users\SILA\source\repos\umlEbeveynveCocuk\umlEbeveynveCocuk\bin\Debug\umlEbeveynveCocuk.exe.config
+C:\Users\SILA\source\repos\umlEbeveynveCocuk\umlEbeveynveCocuk\bin\Debug\umlEbeveynveCocuk.exe
+C:\Users\SILA\source\repos\umlEbeveynveCocuk\umlEbeveynveCocuk\bin\Debug\umlEbeveynveCocuk.pdb
+C:\Users\SILA\source\repos\umlEbeveynveCocuk\umlEbeveynveCocuk\obj\Debug\umlEbeveynveCocuk.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\umlEbeveynveCocuk\umlEbeveynveCocuk\obj\Debug\umlEbeveynveCocuk.csproj.CoreCompileInputs.cache
+C:\Users\SILA\source\repos\umlEbeveynveCocuk\umlEbeveynveCocuk\obj\Debug\umlEbeveynveCocuk.exe
+C:\Users\SILA\source\repos\umlEbeveynveCocuk\umlEbeveynveCocuk\obj\Debug\umlEbeveynveCocuk.pdb

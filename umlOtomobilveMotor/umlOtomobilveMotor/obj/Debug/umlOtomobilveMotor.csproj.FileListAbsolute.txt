@@ -1,0 +1,7 @@
+C:\Users\SILA\source\repos\umlOtomobilveMotor\umlOtomobilveMotor\bin\Debug\umlOtomobilveMotor.exe.config
+C:\Users\SILA\source\repos\umlOtomobilveMotor\umlOtomobilveMotor\bin\Debug\umlOtomobilveMotor.exe
+C:\Users\SILA\source\repos\umlOtomobilveMotor\umlOtomobilveMotor\bin\Debug\umlOtomobilveMotor.pdb
+C:\Users\SILA\source\repos\umlOtomobilveMotor\umlOtomobilveMotor\obj\Debug\umlOtomobilveMotor.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\umlOtomobilveMotor\umlOtomobilveMotor\obj\Debug\umlOtomobilveMotor.csproj.CoreCompileInputs.cache
+C:\Users\SILA\source\repos\umlOtomobilveMotor\umlOtomobilveMotor\obj\Debug\umlOtomobilveMotor.exe
+C:\Users\SILA\source\repos\umlOtomobilveMotor\umlOtomobilveMotor\obj\Debug\umlOtomobilveMotor.pdb

@@ -1,0 +1,7 @@
+C:\Users\SILA\source\repos\umlSirketveCalisan\umlSirketveCalisan\bin\Debug\umlSirketveCalisan.exe.config
+C:\Users\SILA\source\repos\umlSirketveCalisan\umlSirketveCalisan\bin\Debug\umlSirketveCalisan.exe
+C:\Users\SILA\source\repos\umlSirketveCalisan\umlSirketveCalisan\bin\Debug\umlSirketveCalisan.pdb
+C:\Users\SILA\source\repos\umlSirketveCalisan\umlSirketveCalisan\obj\Debug\umlSirketveCalisan.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\umlSirketveCalisan\umlSirketveCalisan\obj\Debug\umlSirketveCalisan.csproj.CoreCompileInputs.cache
+C:\Users\SILA\source\repos\umlSirketveCalisan\umlSirketveCalisan\obj\Debug\umlSirketveCalisan.exe
+C:\Users\SILA\source\repos\umlSirketveCalisan\umlSirketveCalisan\obj\Debug\umlSirketveCalisan.pdb

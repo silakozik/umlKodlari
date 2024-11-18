@@ -1,0 +1,7 @@
+C:\Users\SILA\source\repos\umlMusteriveSiparis\umlMusteriveSiparis\bin\Debug\umlMusteriveSiparis.exe.config
+C:\Users\SILA\source\repos\umlMusteriveSiparis\umlMusteriveSiparis\bin\Debug\umlMusteriveSiparis.exe
+C:\Users\SILA\source\repos\umlMusteriveSiparis\umlMusteriveSiparis\bin\Debug\umlMusteriveSiparis.pdb
+C:\Users\SILA\source\repos\umlMusteriveSiparis\umlMusteriveSiparis\obj\Debug\umlMusteriveSiparis.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\umlMusteriveSiparis\umlMusteriveSiparis\obj\Debug\umlMusteriveSiparis.csproj.CoreCompileInputs.cache
+C:\Users\SILA\source\repos\umlMusteriveSiparis\umlMusteriveSiparis\obj\Debug\umlMusteriveSiparis.exe
+C:\Users\SILA\source\repos\umlMusteriveSiparis\umlMusteriveSiparis\obj\Debug\umlMusteriveSiparis.pdb

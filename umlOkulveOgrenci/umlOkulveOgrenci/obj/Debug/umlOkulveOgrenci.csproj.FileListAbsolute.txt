@@ -1,0 +1,7 @@
+C:\Users\SILA\source\repos\umlOkulveOgrenci\umlOkulveOgrenci\obj\Debug\umlOkulveOgrenci.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\umlOkulveOgrenci\umlOkulveOgrenci\obj\Debug\umlOkulveOgrenci.csproj.CoreCompileInputs.cache
+C:\Users\SILA\source\repos\umlOkulveOgrenci\umlOkulveOgrenci\bin\Debug\umlOkulveOgrenci.exe.config
+C:\Users\SILA\source\repos\umlOkulveOgrenci\umlOkulveOgrenci\bin\Debug\umlOkulveOgrenci.exe
+C:\Users\SILA\source\repos\umlOkulveOgrenci\umlOkulveOgrenci\bin\Debug\umlOkulveOgrenci.pdb
+C:\Users\SILA\source\repos\umlOkulveOgrenci\umlOkulveOgrenci\obj\Debug\umlOkulveOgrenci.exe
+C:\Users\SILA\source\repos\umlOkulveOgrenci\umlOkulveOgrenci\obj\Debug\umlOkulveOgrenci.pdb

@@ -1,0 +1,7 @@
+C:\Users\SILA\source\repos\umlDoktorveHasta\umlDoktorveHasta\bin\Debug\umlDoktorveHasta.exe.config
+C:\Users\SILA\source\repos\umlDoktorveHasta\umlDoktorveHasta\bin\Debug\umlDoktorveHasta.exe
+C:\Users\SILA\source\repos\umlDoktorveHasta\umlDoktorveHasta\bin\Debug\umlDoktorveHasta.pdb
+C:\Users\SILA\source\repos\umlDoktorveHasta\umlDoktorveHasta\obj\Debug\umlDoktorveHasta.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\umlDoktorveHasta\umlDoktorveHasta\obj\Debug\umlDoktorveHasta.csproj.CoreCompileInputs.cache
+C:\Users\SILA\source\repos\umlDoktorveHasta\umlDoktorveHasta\obj\Debug\umlDoktorveHasta.exe
+C:\Users\SILA\source\repos\umlDoktorveHasta\umlDoktorveHasta\obj\Debug\umlDoktorveHasta.pdb
